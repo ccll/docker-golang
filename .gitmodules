@@ -1,0 +1,9 @@
+[submodule "gopath/src/github.com/howeyc/fsnotify"]
+	path = gopath/src/github.com/howeyc/fsnotify
+	url = https://github.com/howeyc/fsnotify
+[submodule "gopath/src/github.com/nitrous-io/goop"]
+	path = gopath/src/github.com/nitrous-io/goop
+	url = https://github.com/nitrous-io/goop
+[submodule "gopath/src/github.com/skelterjohn/rerun"]
+	path = gopath/src/github.com/skelterjohn/rerun
+	url = https://github.com/skelterjohn/rerun
