@@ -9,5 +9,4 @@ ENV PATH $PATH:$GOROOT/bin:$GOPATH/bin
 
 # Install go tools
 COPY gopath /gopath
-RUN go get -v github.com/nitrous-io/goop
 RUN go get -v github.com/skelterjohn/rerun
